@@ -1,4 +1,4 @@
-Projeto de solucão do exercício proposto para o processo seletico da SinosByte
+Projeto de solucão do exercício proposto para o processo seletico da SINOSBYTE
 
 No diretório aluno se encontra o código em java da aplicacão.
 
